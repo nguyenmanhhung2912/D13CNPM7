@@ -1,0 +1,381 @@
+0000.000 (0) Opened log file at time: Thu, 24 Dec 2020 04:12:50 +0000 on http://localhost/webbangear/wordpress
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.43 WP: 5.4.4 PHP: 7.2.34 (apache2handler, Windows NT DESKTOP-L2POJHI 10.0 build 19041 (Windows 10) AMD64) MySQL: 10.4.14-MariaDB WPLANG: vi Server: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.2.34 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 64.3M | 10M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 131286.7 MB
+0000.007 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.009 (0) Semaphore (fd, admin2options) being initialised
+0000.014 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.018 (0) Set semaphore last lock (fd) time to 2020-12-24 04:12:50
+0000.020 (0) Semaphore lock (fd) complete
+0000.024 (0) Backup run: resumption=0, nonce=b1fc57efdcae, file_nonce=b1fc57efdcae begun at=1608783170 (0s ago), job type=backup
+0000.027 (0) Scheduling a resumption (1) after 300 seconds (1608783470) in case this run gets aborted
+0000.044 (0) Checking if we have a zip executable available
+0000.049 (0) Creation of backups of directories: beginning
+0000.055 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.575 (0) Total entities for the zip file: 839 directories, 4694 files (0 skipped as non-modified), 55.9 MB
+0001.609 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.639 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.669 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.700 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.731 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.763 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0001.793 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0001.826 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0001.856 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0001.876 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 4694 files batched, 965 (965) added so far); re-opening (prior size: 0 KB)
+0003.600 (0) A useful amount of data was added after this amount of zip processing: 4.2 s (normalised: 4.2 s, rate: 6072.7 KB/s)
+0003.603 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.2229030132294, normalised_time=4.2155889638042, max_time=3.6017792224884, data points known=1, old_max_bytes=26214400, new_max_bytes=37310658)
+0003.628 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 1000 files added (on-disk size: 7292.8 KB)
+0003.657 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 1100 files added (on-disk size: 7292.8 KB)
+0003.693 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 1200 files added (on-disk size: 7292.8 KB)
+0003.729 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 1300 files added (on-disk size: 7292.8 KB)
+0003.765 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 1400 files added (on-disk size: 7292.8 KB)
+0003.810 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 1500 files added (on-disk size: 7292.8 KB)
+0003.856 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 1600 files added (on-disk size: 7292.8 KB)
+0003.915 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 1700 files added (on-disk size: 7292.8 KB)
+0003.962 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 1800 files added (on-disk size: 7292.8 KB)
+0004.005 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 1900 files added (on-disk size: 7292.8 KB)
+0004.038 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.8 MB, 4694 files batched, 1001 (1966) added so far); re-opening (prior size: 7292.8 KB)
+0005.098 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 2000 files added (on-disk size: 10386.2 KB)
+0005.135 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 2100 files added (on-disk size: 10386.2 KB)
+0005.169 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 2200 files added (on-disk size: 10386.2 KB)
+0005.206 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 2300 files added (on-disk size: 10386.2 KB)
+0005.246 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 2400 files added (on-disk size: 10386.2 KB)
+0005.282 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 2500 files added (on-disk size: 10386.2 KB)
+0005.323 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 2600 files added (on-disk size: 10386.2 KB)
+0005.360 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 2700 files added (on-disk size: 10386.2 KB)
+0005.394 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 2800 files added (on-disk size: 10386.2 KB)
+0005.428 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 2900 files added (on-disk size: 10386.2 KB)
+0005.459 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.5 MB, 4694 files batched, 1001 (2967) added so far); re-opening (prior size: 10386.2 KB)
+0006.394 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 3000 files added (on-disk size: 13926.5 KB)
+0006.432 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 3100 files added (on-disk size: 13926.5 KB)
+0006.466 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 3200 files added (on-disk size: 13926.5 KB)
+0006.518 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 3300 files added (on-disk size: 13926.5 KB)
+0006.564 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 3400 files added (on-disk size: 13926.5 KB)
+0006.605 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 3500 files added (on-disk size: 13926.5 KB)
+0006.650 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 3600 files added (on-disk size: 13926.5 KB)
+0006.684 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 3700 files added (on-disk size: 13926.5 KB)
+0006.715 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 3800 files added (on-disk size: 13926.5 KB)
+0006.748 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 3900 files added (on-disk size: 13926.5 KB)
+0006.778 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (4.1 MB, 4694 files batched, 1001 (3968) added so far); re-opening (prior size: 13926.5 KB)
+0007.505 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 4000 files added (on-disk size: 15619.5 KB)
+0007.554 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 4100 files added (on-disk size: 15619.5 KB)
+0007.586 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 4200 files added (on-disk size: 15619.5 KB)
+0007.619 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 4300 files added (on-disk size: 15619.5 KB)
+0007.653 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 4400 files added (on-disk size: 15619.5 KB)
+0007.687 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 4500 files added (on-disk size: 15619.5 KB)
+0007.724 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip.tmp: 4600 files added (on-disk size: 15619.5 KB)
+0008.463 (0) Created plugins zip (0) - 16981 KB in 8.4 s (2020.5 KB/s) (sha1: 08e4c8f1cf3ba8879dfa9381bfa65b88f47511dd, sha256: cce4dcb0cfe297b0da3bc77f1f65051716543f0736c6cecdcddb7d2a2b92b5a8)
+0008.470 (0) Beginning creation of dump of themes (split every: 400 MB)
+0009.048 (0) Total entities for the zip file: 260 directories, 1924 files (0 skipped as non-modified), 15.7 MB
+0009.084 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0009.120 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0009.155 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0009.187 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0009.217 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0009.250 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0009.281 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0009.321 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0009.359 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0009.417 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0009.420 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.2 MB, 1924 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0010.235 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip.tmp: 1100 files added (on-disk size: 3611.8 KB)
+0010.272 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip.tmp: 1200 files added (on-disk size: 3611.8 KB)
+0010.319 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip.tmp: 1300 files added (on-disk size: 3611.8 KB)
+0010.362 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip.tmp: 1400 files added (on-disk size: 3611.8 KB)
+0010.411 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip.tmp: 1500 files added (on-disk size: 3611.8 KB)
+0010.452 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip.tmp: 1600 files added (on-disk size: 3611.8 KB)
+0010.490 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip.tmp: 1700 files added (on-disk size: 3611.8 KB)
+0010.537 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip.tmp: 1800 files added (on-disk size: 3611.8 KB)
+0010.584 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip.tmp: 1900 files added (on-disk size: 3611.8 KB)
+0011.269 (0) Created themes zip (0) - 7632.3 KB in 2.8 s (2732.8 KB/s) (sha1: cb06c7ac3efec254de56d3e197d1d138344bc777, sha256: 4ec46fd64dab60616eeac6605f743f72e1ff040cd3ddffe12579bab7e524bd8f)
+0011.273 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0011.276 (0) Looking for candidates to backup in: C:\xampp\htdocs\webbangear\wordpress/wp-content/uploads
+0011.278 (0) finding files: 2016: adding to list (1)
+0011.280 (0) finding files: 2020: adding to list (2)
+0011.282 (0) finding files: wc-logs: adding to list (3)
+0011.284 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (4)
+0011.286 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (5)
+0011.288 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (6)
+0011.290 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (7)
+0011.291 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (8)
+0011.293 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (9)
+0011.295 (0) finding files: woocommerce-placeholder.png: adding to list (10)
+0011.296 (0) finding files: woocommerce_uploads: adding to list (11)
+0011.298 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0011.431 (0) Total entities for the zip file: 6 directories, 482 files (0 skipped as non-modified), 27.5 MB
+0011.463 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0011.492 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0011.521 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0011.551 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0012.191 (0) Created uploads zip (0) - 28284 KB in 0.9 s (31788.3 KB/s) (sha1: eae86e2a7a5d50584794ded67eefb0413f4b55ef, sha256: c118138de960b5188cb095ddd40955263283d4c77dddd2d8e025862e2c2c2f3b)
+0012.199 (0) Beginning backup of other directories found in the content directory (index: 0)
+0012.201 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0012.204 (0) Looking for candidates to backup in: C:\xampp\htdocs\webbangear\wordpress/wp-content
+0012.206 (0) finding files: index.php: adding to list (1)
+0012.208 (0) finding files: languages: adding to list (2)
+0012.209 (0) finding files: plugins: skipping: this is the plugins directory
+0012.211 (0) finding files: themes: skipping: this is the themes directory
+0012.213 (0) finding files: updraft: skipping: this is the updraft directory
+0012.215 (0) finding files: upgrade: skipping: excluded by options
+0012.216 (0) finding files: uploads: skipping: this is the uploads directory
+0012.308 (0) Total entities for the zip file: 3 directories, 265 files (0 skipped as non-modified), 4.3 MB
+0012.339 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0012.369 (0) Zip: backup_2020-12-24-0412_webbangear_b1fc57efdcae-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0012.793 (0) Created others zip (0) - 1219.6 KB in 0.6 s (2138.1 KB/s) (sha1: b807d2052fca297fd97c8bbf521fd8fb08ddae66, sha256: 689c803d40e093b99003e161985afab36511f4277907a353dc906c953f502bf6)
+0012.801 (0) Saving backup status to database (elements: 8)
+0012.805 (0) Beginning creation of database dump (WordPress DB)
+0012.806 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0012.909 (0) Table admin2options: Total expected rows (approximate): 383
+0012.967 (0) Table admin2options: Rows added in this batch (next record: 1436): 385 (uncompressed bytes in this segment=967033) in 0.06 seconds
+0012.981 (0) Table admin2options: finishing file(s) (2, 199.4 KB)
+0012.987 (0) Table admin2users: Total expected rows (approximate): 0
+0012.998 (0) Table admin2users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1385) in 0.01 seconds
+0013.009 (0) Table admin2users: finishing file(s) (2, 0.6 KB)
+0013.015 (0) Table admin2usermeta: Total expected rows (approximate): 28
+0013.024 (0) Table admin2usermeta: Rows added in this batch (next record: 31): 28 (uncompressed bytes in this segment=3267) in 0.01 seconds
+0013.037 (0) Table admin2usermeta: finishing file(s) (2, 1.5 KB)
+0013.042 (0) Table admin2actionscheduler_actions: Total expected rows (approximate): 1
+0013.054 (0) Table admin2actionscheduler_actions: Rows added in this batch (next record: 9): 1 (uncompressed bytes in this segment=1896) in 0.01 seconds
+0013.065 (0) Table admin2actionscheduler_actions: finishing file(s) (2, 0.7 KB)
+0013.070 (0) Table admin2actionscheduler_claims: Total expected rows (approximate): 0
+0013.082 (0) Table admin2actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=648) in 0.01 seconds
+0013.095 (0) Table admin2actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0013.115 (0) Table admin2actionscheduler_groups: Total expected rows (approximate): 0
+0013.126 (0) Table admin2actionscheduler_groups: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=702) in 0.01 seconds
+0013.141 (0) Table admin2actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0013.155 (0) Table admin2actionscheduler_logs: Total expected rows (approximate): 3
+0013.169 (0) Table admin2actionscheduler_logs: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=1121) in 0.01 seconds
+0013.182 (0) Table admin2actionscheduler_logs: finishing file(s) (2, 0.5 KB)
+0013.187 (0) Table admin2commentmeta: Total expected rows (approximate): 0
+0013.198 (0) Table admin2commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=702) in 0.01 seconds
+0013.210 (0) Table admin2commentmeta: finishing file(s) (2, 0.4 KB)
+0013.215 (0) Table admin2comments: Total expected rows (approximate): 1
+0013.240 (0) Table admin2comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2251) in 0.02 seconds
+0013.255 (0) Table admin2comments: finishing file(s) (2, 0.8 KB)
+0013.272 (0) Table admin2links: Total expected rows (approximate): 0
+0013.283 (0) Table admin2links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1284) in 0.01 seconds
+0013.299 (0) Table admin2links: finishing file(s) (2, 0.5 KB)
+0013.306 (0) Table admin2postmeta: Total expected rows (approximate): 4002
+0013.366 (0) Table admin2postmeta: Rows added in this batch (next record: 4326): 3947 (uncompressed bytes in this segment=329917) in 0.06 seconds
+0013.381 (0) Table admin2postmeta: finishing file(s) (2, 37.7 KB)
+0013.387 (0) Table admin2posts: Total expected rows (approximate): 407
+0013.459 (0) Table admin2posts: Rows added in this batch (next record: 502): 458 (uncompressed bytes in this segment=811428) in 0.07 seconds
+0013.471 (0) Table admin2posts: finishing file(s) (2, 90.2 KB)
+0013.476 (0) Table admin2term_relationships: Total expected rows (approximate): 362
+0013.494 (0) Table admin2term_relationships: Rows added in this batch (next record: 100000): 362 (uncompressed bytes in this segment=6015) in 0.02 seconds
+0013.510 (0) Table admin2term_relationships: finishing file(s) (2, 1.3 KB)
+0013.518 (0) Table admin2term_taxonomy: Total expected rows (approximate): 62
+0013.535 (0) Table admin2term_taxonomy: Rows added in this batch (next record: 83): 67 (uncompressed bytes in this segment=3367) in 0.02 seconds
+0013.548 (0) Table admin2term_taxonomy: finishing file(s) (2, 0.9 KB)
+0013.554 (0) Table admin2termmeta: Total expected rows (approximate): 79
+0013.569 (0) Table admin2termmeta: Rows added in this batch (next record: 113): 79 (uncompressed bytes in this segment=3779) in 0.01 seconds
+0013.583 (0) Table admin2termmeta: finishing file(s) (2, 0.9 KB)
+0013.590 (0) Table admin2terms: Total expected rows (approximate): 65
+0013.600 (0) Table admin2terms: Rows added in this batch (next record: 83): 67 (uncompressed bytes in this segment=2956) in 0.01 seconds
+0013.617 (0) Table admin2terms: finishing file(s) (2, 1.2 KB)
+0013.630 (0) Table admin2wc_category_lookup: Total expected rows (approximate): 0
+0013.644 (0) Table admin2wc_category_lookup: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=606) in 0.01 seconds
+0013.657 (0) Table admin2wc_category_lookup: finishing file(s) (2, 0.3 KB)
+0013.664 (0) Table admin2wc_product_meta_lookup: Total expected rows (approximate): 41
+0013.683 (0) Table admin2wc_product_meta_lookup: Rows added in this batch (next record: 497): 41 (uncompressed bytes in this segment=5489) in 0.02 seconds
+0013.698 (0) Table admin2wc_product_meta_lookup: finishing file(s) (2, 0.9 KB)
+0013.712 (0) Table admin2wc_reserved_stock: Total expected rows (approximate): 0
+0013.729 (0) Table admin2wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=677) in 0.01 seconds
+0013.742 (0) Table admin2wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0013.748 (0) Table admin2wc_tax_rate_classes: Total expected rows (approximate): 2
+0013.761 (0) Table admin2wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=821) in 0.01 seconds
+0013.775 (0) Table admin2wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0013.781 (0) Table admin2woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0013.793 (0) Table admin2woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=790) in 0.01 seconds
+0013.806 (0) Table admin2woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0013.821 (0) Table admin2woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0013.830 (0) Table admin2woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=817) in 0.01 seconds
+0013.843 (0) Table admin2woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0013.856 (0) Table admin2social_users: Total expected rows (approximate): 0
+0013.868 (0) Table admin2social_users: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=769) in 0.01 seconds
+0013.881 (0) Table admin2social_users: finishing file(s) (2, 0.4 KB)
+0013.887 (0) Table admin2wc_admin_note_actions: Total expected rows (approximate): 17
+0013.899 (0) Table admin2wc_admin_note_actions: Rows added in this batch (next record: 914): 17 (uncompressed bytes in this segment=3136) in 0.01 seconds
+0013.910 (0) Table admin2wc_admin_note_actions: finishing file(s) (2, 1.1 KB)
+0013.916 (0) Table admin2wc_admin_notes: Total expected rows (approximate): 16
+0013.930 (0) Table admin2wc_admin_notes: Rows added in this batch (next record: 16): 16 (uncompressed bytes in this segment=9506) in 0.01 seconds
+0013.942 (0) Table admin2wc_admin_notes: finishing file(s) (2, 2.7 KB)
+0013.956 (0) Table admin2wc_customer_lookup: Total expected rows (approximate): 0
+0013.967 (0) Table admin2wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1248) in 0.01 seconds
+0013.981 (0) Table admin2wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0013.994 (0) Table admin2wc_download_log: Total expected rows (approximate): 0
+0014.004 (0) Table admin2wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=942) in 0.01 seconds
+0014.017 (0) Table admin2wc_download_log: finishing file(s) (2, 0.5 KB)
+0014.030 (0) Table admin2wc_order_coupon_lookup: Total expected rows (approximate): 0
+0014.040 (0) Table admin2wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=729) in 0.01 seconds
+0014.054 (0) Table admin2wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0014.070 (0) Table admin2wc_order_product_lookup: Total expected rows (approximate): 0
+0014.085 (0) Table admin2wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1229) in 0.01 seconds
+0014.100 (0) Table admin2wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0014.116 (0) Table admin2wc_order_stats: Total expected rows (approximate): 0
+0014.128 (0) Table admin2wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1120) in 0.01 seconds
+0014.140 (0) Table admin2wc_order_stats: finishing file(s) (2, 0.5 KB)
+0014.154 (0) Table admin2wc_order_tax_lookup: Total expected rows (approximate): 0
+0014.164 (0) Table admin2wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=807) in 0.01 seconds
+0014.176 (0) Table admin2wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0014.190 (0) Table admin2wc_webhooks: Total expected rows (approximate): 0
+0014.199 (0) Table admin2wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1220) in 0.01 seconds
+0014.212 (0) Table admin2wc_webhooks: finishing file(s) (2, 0.5 KB)
+0014.227 (0) Table admin2woocommerce_api_keys: Total expected rows (approximate): 0
+0014.242 (0) Table admin2woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1049) in 0.01 seconds
+0014.255 (0) Table admin2woocommerce_api_keys: finishing file(s) (2, 0.4 KB)
+0014.278 (0) Table admin2woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0014.288 (0) Table admin2woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=957) in 0.01 seconds
+0014.303 (0) Table admin2woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0014.334 (0) Table admin2woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0014.349 (0) Table admin2woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1532) in 0.01 seconds
+0014.365 (0) Table admin2woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0014.380 (0) Table admin2woocommerce_log: Total expected rows (approximate): 0
+0014.397 (0) Table admin2woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=737) in 0.02 seconds
+0014.409 (0) Table admin2woocommerce_log: finishing file(s) (2, 0.4 KB)
+0014.415 (0) Table admin2woocommerce_order_items: Total expected rows (approximate): 0
+0014.427 (0) Table admin2woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=745) in 0.01 seconds
+0014.447 (0) Table admin2woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0014.461 (0) Table admin2woocommerce_payment_tokens: Total expected rows (approximate): 0
+0014.470 (0) Table admin2woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=839) in 0.01 seconds
+0014.484 (0) Table admin2woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0014.490 (0) Table admin2woocommerce_sessions: Total expected rows (approximate): 1
+0014.499 (0) Table admin2woocommerce_sessions: Rows added in this batch (next record: 2): 1 (uncompressed bytes in this segment=3058) in 0.01 seconds
+0014.513 (0) Table admin2woocommerce_sessions: finishing file(s) (2, 1.1 KB)
+0014.527 (0) Table admin2woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0014.536 (0) Table admin2woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=880) in 0.01 seconds
+0014.549 (0) Table admin2woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0014.563 (0) Table admin2woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0014.579 (0) Table admin2woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=783) in 0.01 seconds
+0014.592 (0) Table admin2woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0014.598 (0) Table admin2woocommerce_shipping_zones: Total expected rows (approximate): 0
+0014.613 (0) Table admin2woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=643) in 0.01 seconds
+0014.627 (0) Table admin2woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0014.643 (0) Table admin2woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0014.654 (0) Table admin2woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=854) in 0.01 seconds
+0014.670 (0) Table admin2woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0014.677 (0) Table admin2woocommerce_tax_rates: Total expected rows (approximate): 0
+0014.694 (0) Table admin2woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1291) in 0.02 seconds
+0014.708 (0) Table admin2woocommerce_tax_rates: finishing file(s) (2, 0.4 KB)
+0014.711 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2options.table.tmpr1437.gz (1/44): adding to final database dump
+0014.750 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2options.table.gz (2/44): adding to final database dump
+0014.752 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2users.table.tmpr2.gz (3/44): adding to final database dump
+0014.754 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2users.table.gz (4/44): adding to final database dump
+0014.756 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2usermeta.table.tmpr32.gz (5/44): adding to final database dump
+0014.758 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2usermeta.table.gz (6/44): adding to final database dump
+0014.759 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2actionscheduler_actions.table.tmpr10.gz (7/44): adding to final database dump
+0014.761 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2actionscheduler_actions.table.gz (8/44): adding to final database dump
+0014.763 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2actionscheduler_claims.table.tmpr0.gz (9/44): adding to final database dump
+0014.764 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2actionscheduler_claims.table.gz (10/44): adding to final database dump
+0014.766 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2actionscheduler_groups.table.tmpr2.gz (11/44): adding to final database dump
+0014.767 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2actionscheduler_groups.table.gz (12/44): adding to final database dump
+0014.769 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2actionscheduler_logs.table.tmpr4.gz (13/44): adding to final database dump
+0014.771 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2actionscheduler_logs.table.gz (14/44): adding to final database dump
+0014.773 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2commentmeta.table.tmpr0.gz (15/44): adding to final database dump
+0014.774 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2commentmeta.table.gz (16/44): adding to final database dump
+0014.776 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2comments.table.tmpr2.gz (17/44): adding to final database dump
+0014.777 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2comments.table.gz (18/44): adding to final database dump
+0014.779 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2links.table.tmpr0.gz (19/44): adding to final database dump
+0014.780 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2links.table.gz (20/44): adding to final database dump
+0014.781 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2postmeta.table.tmpr4327.gz (21/44): adding to final database dump
+0014.792 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2postmeta.table.gz (22/44): adding to final database dump
+0014.793 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2posts.table.tmpr503.gz (23/44): adding to final database dump
+0014.810 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2posts.table.gz (24/44): adding to final database dump
+0014.812 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2term_relationships.table.tmpr100001.gz (25/44): adding to final database dump
+0014.814 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2term_relationships.table.gz (26/44): adding to final database dump
+0014.816 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2term_taxonomy.table.tmpr84.gz (27/44): adding to final database dump
+0014.818 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2term_taxonomy.table.gz (28/44): adding to final database dump
+0014.819 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2termmeta.table.tmpr114.gz (29/44): adding to final database dump
+0014.821 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2termmeta.table.gz (30/44): adding to final database dump
+0014.823 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2terms.table.tmpr84.gz (31/44): adding to final database dump
+0014.825 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2terms.table.gz (32/44): adding to final database dump
+0014.826 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_category_lookup.table.tmpr1001.gz (33/44): adding to final database dump
+0014.828 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_category_lookup.table.gz (34/44): adding to final database dump
+0014.830 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_product_meta_lookup.table.tmpr498.gz (35/44): adding to final database dump
+0014.831 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_product_meta_lookup.table.gz (36/44): adding to final database dump
+0014.833 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_reserved_stock.table.tmpr1.gz (37/44): adding to final database dump
+0014.834 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_reserved_stock.table.gz (38/44): adding to final database dump
+0014.836 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_tax_rate_classes.table.tmpr3.gz (39/44): adding to final database dump
+0014.838 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_tax_rate_classes.table.gz (40/44): adding to final database dump
+0014.839 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_order_itemmeta.table.tmpr0.gz (41/44): adding to final database dump
+0014.841 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_order_itemmeta.table.gz (42/44): adding to final database dump
+0014.843 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_payment_tokenmeta.table.tmpr0.gz (43/44): adding to final database dump
+0014.844 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_payment_tokenmeta.table.gz (44/44): adding to final database dump
+0014.846 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2social_users.table.tmpr1.gz (45/44): adding to final database dump
+0014.847 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2social_users.table.gz (46/44): adding to final database dump
+0014.849 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_admin_note_actions.table.tmpr915.gz (47/44): adding to final database dump
+0014.851 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_admin_note_actions.table.gz (48/44): adding to final database dump
+0014.852 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_admin_notes.table.tmpr17.gz (49/44): adding to final database dump
+0014.856 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_admin_notes.table.gz (50/44): adding to final database dump
+0014.860 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_customer_lookup.table.tmpr0.gz (51/44): adding to final database dump
+0014.863 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_customer_lookup.table.gz (52/44): adding to final database dump
+0014.865 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_download_log.table.tmpr0.gz (53/44): adding to final database dump
+0014.868 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_download_log.table.gz (54/44): adding to final database dump
+0014.870 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_order_coupon_lookup.table.tmpr1.gz (55/44): adding to final database dump
+0014.872 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_order_coupon_lookup.table.gz (56/44): adding to final database dump
+0014.874 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_order_product_lookup.table.tmpr0.gz (57/44): adding to final database dump
+0014.876 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_order_product_lookup.table.gz (58/44): adding to final database dump
+0014.878 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_order_stats.table.tmpr0.gz (59/44): adding to final database dump
+0014.881 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_order_stats.table.gz (60/44): adding to final database dump
+0014.882 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_order_tax_lookup.table.tmpr1.gz (61/44): adding to final database dump
+0014.884 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_order_tax_lookup.table.gz (62/44): adding to final database dump
+0014.885 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_webhooks.table.tmpr0.gz (63/44): adding to final database dump
+0014.887 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2wc_webhooks.table.gz (64/44): adding to final database dump
+0014.889 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_api_keys.table.tmpr0.gz (65/44): adding to final database dump
+0014.890 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_api_keys.table.gz (66/44): adding to final database dump
+0014.892 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_attribute_taxonomies.table.tmpr0.gz (67/44): adding to final database dump
+0014.894 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_attribute_taxonomies.table.gz (68/44): adding to final database dump
+0014.895 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_downloadable_product_permissions.table.tmpr0.gz (69/44): adding to final database dump
+0014.897 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_downloadable_product_permissions.table.gz (70/44): adding to final database dump
+0014.898 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_log.table.tmpr0.gz (71/44): adding to final database dump
+0014.900 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_log.table.gz (72/44): adding to final database dump
+0014.901 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_order_items.table.tmpr0.gz (73/44): adding to final database dump
+0014.903 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_order_items.table.gz (74/44): adding to final database dump
+0014.905 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_payment_tokens.table.tmpr0.gz (75/44): adding to final database dump
+0014.907 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_payment_tokens.table.gz (76/44): adding to final database dump
+0014.908 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_sessions.table.tmpr3.gz (77/44): adding to final database dump
+0014.910 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_sessions.table.gz (78/44): adding to final database dump
+0014.911 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_shipping_zone_locations.table.tmpr0.gz (79/44): adding to final database dump
+0014.913 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_shipping_zone_locations.table.gz (80/44): adding to final database dump
+0014.914 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_shipping_zone_methods.table.tmpr0.gz (81/44): adding to final database dump
+0014.917 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_shipping_zone_methods.table.gz (82/44): adding to final database dump
+0014.918 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_shipping_zones.table.tmpr0.gz (83/44): adding to final database dump
+0014.919 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_shipping_zones.table.gz (84/44): adding to final database dump
+0014.921 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_tax_rate_locations.table.tmpr0.gz (85/44): adding to final database dump
+0014.923 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_tax_rate_locations.table.gz (86/44): adding to final database dump
+0014.925 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_tax_rates.table.tmpr0.gz (87/44): adding to final database dump
+0014.927 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db-table-admin2woocommerce_tax_rates.table.gz (88/44): adding to final database dump
+0014.951 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db.gz: finished writing out complete database file (312 KB)
+0014.980 (0) Total database tables backed up: 44 (backup_2020-12-24-0412_webbangear_b1fc57efdcae-db.gz, size: 348977, sha1: 036ef2e1cd8a68a3e6950b45776ccbf137179f10, sha256: 9a4061f63d01ba2a7ced456247e02b95a8de3618709a5978f0b821601b3e056e)
+0014.987 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0014.989 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0014.990 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0014.992 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-others.zip: others: This file has not yet been successfully uploaded: will queue
+0014.993 (0) backup_2020-12-24-0412_webbangear_b1fc57efdcae-db.gz: db: This file has not yet been successfully uploaded: will queue
+0014.995 (0) Saving backup history. Total backup size: 53.2 MB
+0014.998 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0015.002 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0015.004 (0) No remote despatch: user chose no remote backup service
+0015.005 (0) Recording as successfully uploaded: backup_2020-12-24-0412_webbangear_b1fc57efdcae-plugins.zip
+0015.008 (0) Recording as successfully uploaded: backup_2020-12-24-0412_webbangear_b1fc57efdcae-themes.zip
+0015.010 (0) Recording as successfully uploaded: backup_2020-12-24-0412_webbangear_b1fc57efdcae-uploads.zip
+0015.013 (0) Recording as successfully uploaded: backup_2020-12-24-0412_webbangear_b1fc57efdcae-others.zip
+0015.016 (0) Recording as successfully uploaded: backup_2020-12-24-0412_webbangear_b1fc57efdcae-db.gz
+0015.020 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0015.022 (0) Number of backup sets in history: 1; groups (db): 1
+0015.023 (0) Examining (for databases) backup set with group_id=0, nonce=b1fc57efdcae, datestamp=1608783170 (Dec 24 2020 04:12:50)
+0015.025 (0) This backup set is the backup set just made, so will not be deleted.
+0015.025 (0) Number of backup sets in history: 1; groups (files): 1
+0015.026 (0) Examining (for files) backup set with nonce=b1fc57efdcae, datestamp=1608783170 (Dec 24 2020 04:12:50)
+0015.026 (0) This backup set is the backup set just made, so will not be deleted.
+0015.027 (0) This backup set is the backup set just made, so will not be deleted.
+0015.028 (0) This backup set is the backup set just made, so will not be deleted.
+0015.028 (0) This backup set is the backup set just made, so will not be deleted.
+0015.028 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0015.029 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0015.032 (0) Resume backup (b1fc57efdcae, 0): finish run
+0015.036 (0) Decremented the semaphore (fd) by 1
+0015.039 (0) Semaphore (fd) unlocked
+0015.040 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0015.045 (0) No email will/can be sent - the user has not configured an email address.
+0015.047 (0) The backup apparently succeeded and is now complete
